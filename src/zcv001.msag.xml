@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZCV001</ARBGB>
+    <MASTERLANG>J</MASTERLANG>
+   </T100A>
+   <I18N_LANGS>
+    <LANGU>J</LANGU>
+   </I18N_LANGS>
+   <T100T>
+    <T100T>
+     <SPRSL>J</SPRSL>
+     <ARBGB>ZCV001</ARBGB>
+    </T100T>
+   </T100T>
+   <T100_TEXTS>
+    <item>
+     <SPRSL>J</SPRSL>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp; &amp; &amp; &amp;</TEXT>
+    </item>
+    <item>
+     <SPRSL>J</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>EXCELファイルをSAPにアップロードできませんでした。</TEXT>
+    </item>
+    <item>
+     <SPRSL>J</SPRSL>
+     <MSGNR>002</MSGNR>
+     <TEXT>アップロードしたEXCELファイルはブランクファイルです。</TEXT>
+    </item>
+    <item>
+     <SPRSL>J</SPRSL>
+     <MSGNR>003</MSGNR>
+     <TEXT>バックグランド実行ファイルを指定してください。</TEXT>
+    </item>
+    <item>
+     <SPRSL>J</SPRSL>
+     <MSGNR>004</MSGNR>
+     <TEXT>アップロードファイル名を指定してください。</TEXT>
+    </item>
+    <item>
+     <SPRSL>J</SPRSL>
+     <MSGNR>005</MSGNR>
+     <TEXT>ファイルオープンエラー &amp;1</TEXT>
+    </item>
+    <item>
+     <SPRSL>J</SPRSL>
+     <MSGNR>006</MSGNR>
+    </item>
+   </T100_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
